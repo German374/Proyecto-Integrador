@@ -1,0 +1,8 @@
+ec\edu\espoch\rutaspendie_max_min\dao\FuncionDAOImpl.class
+module-info.class
+ec\edu\espoch\rutaspendie_max_min\controller\PrimaryController.class
+ec\edu\espoch\rutaspendie_max_min\util\CalculadoraPendiente.class
+ec\edu\espoch\rutaspendie_max_min\controller\SecondaryController.class
+ec\edu\espoch\rutaspendie_max_min\dao\FuncionDAO.class
+ec\edu\espoch\rutaspendie_max_min\model\Funcion.class
+ec\edu\espoch\rutaspendie_max_min\App.class
