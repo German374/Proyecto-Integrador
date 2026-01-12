@@ -1,0 +1,61 @@
+.root {
+    -fx-background-color: #f4f6f8;
+    -fx-font-family: "Segoe UI";
+}
+
+.title {
+    -fx-font-size: 18px !important;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1e3a8a;
+}
+
+
+.subtitle {
+    -fx-font-size: 14px;
+    -fx-text-fill: #64748b;
+}
+
+.label {
+    -fx-font-size: 13px;
+    -fx-text-fill: #374151;
+}
+
+.combo-box {
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+.text-field {
+    -fx-background-radius: 12;
+    -fx-border-radius: 12;
+    -fx-border-color: #cbd5e1;
+    -fx-padding: 12;
+    -fx-font-size: 14px;
+}
+
+.button-primary {
+    -fx-background-color: #2563eb;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 14;
+    -fx-padding: 10 25;
+    -fx-cursor: hand;
+}
+
+.button-primary:hover {
+    -fx-background-color: #1e40af;
+}
+
+.button-secondary {
+    -fx-background-color: #e5e7eb;
+    -fx-text-fill: #374151;
+    -fx-font-size: 14px;
+    -fx-background-radius: 14;
+    -fx-padding: 10 25;
+    -fx-cursor: hand;
+}
+
+.button-secondary:hover {
+    -fx-background-color: #d1d5db;
+}
