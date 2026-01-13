@@ -13,7 +13,7 @@ public class App extends Application{
         stage = primaryStage;
         FXMLLoader loader = new FXMLLoader(App.class.getResource("/ec/edu/espoch/rutaspendie_max_min/primary.fxml"));
         Scene scene = new Scene(loader.load());
-        stage.setTitle("Análisis de Pendientes");
+        stage.setTitle("Rutas Pendientes");
         stage.setScene(scene);
         stage.show();
     }
